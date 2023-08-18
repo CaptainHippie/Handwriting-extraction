@@ -1,6 +1,6 @@
 import streamlit as st
 import json
-import opencv-python-headless as cv2
+import cv2
 from keras.models import load_model
 import tensorflow.keras.backend as K
 import numpy as np
